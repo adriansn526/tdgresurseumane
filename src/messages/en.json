@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "careers": "Careers",
+    "resources": "Resources",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Trusted HR Solutions",
+    "title": "Your Partner in",
+    "titleHighlight": "Human Resources",
+    "description": "We offer complete personnel administration, management consulting, recruitment and immigration services for your business.",
+    "ctaPrimary": "Request Free Consultation",
+    "ctaSecondary": "Discover Services",
+    "stats": {
+      "clients": "Clients",
+      "expertise": "Years Expertise",
+      "projects": "Projects"
+    }
+  },
+  "services": {
+    "administrarePersonal": {
+      "title": "Personnel Administration",
+      "description": "Complete payroll and REVISAL reporting"
+    },
+    "consultantaManagement": {
+      "title": "Management Consulting",
+      "description": "Process optimization and development"
+    },
+    "recrutare": {
+      "title": "Recruitment & Head Hunting",
+      "description": "We find the right candidates for you"
+    },
+    "gdpr": {
+      "title": "GDPR & Compliance",
+      "description": "Data protection and legal compliance"
+    },
+    "imigrari": {
+      "title": "Immigration Services",
+      "description": "Complete assistance for foreigners"
+    },
+    "detasare": {
+      "title": "European Posting",
+      "description": "A1 Form and complete assistance"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose TDG Trading?",
+    "expertise": {
+      "title": "Vast Expertise",
+      "description": "Over 15 years of expertise in human resources"
+    },
+    "speed": {
+      "title": "Fast Solutions",
+      "description": "Answers and solutions in the shortest time possible"
+    },
+    "partnership": {
+      "title": "Dedicated Partnership",
+      "description": "Continuous support and personalized consulting"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Our simple 4-step process",
+    "step1": {
+      "title": "Initial Consultation",
+      "description": "We discuss your needs and identify the right solutions"
+    },
+    "step2": {
+      "title": "Analysis & Planning",
+      "description": "We create a personalized plan for your business"
+    },
+    "step3": {
+      "title": "Implementation",
+      "description": "We put the agreed solutions into action"
+    },
+    "step4": {
+      "title": "Ongoing Support",
+      "description": "We stay with you for whatever you need"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Over 500 companies have trusted us"
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Contact us today for a free consultation",
+    "button": "Request Free Consultation"
+  },
+  "calculator": {
+    "title": "Quote Calculator",
+    "subtitle": "Select the services you need and receive a personalized quote by email",
+    "step1": {
+      "title": "Select Services",
+      "subtitle": "Choose the services you need",
+      "minSelection": "Select at least one service"
+    },
+    "step2": {
+      "title": "Service Details",
+      "subtitle": "Complete details for selected services"
+    },
+    "step3": {
+      "title": "Contact Information",
+      "subtitle": "Where should we send the quote?"
+    },
+    "step4": {
+      "title": "Confirmation",
+      "subtitle": "Review and submit your request"
+    },
+    "buttons": {
+      "back": "Back",
+      "continue": "Continue",
+      "submit": "Submit Request",
+      "newQuote": "New Quote"
+    },
+    "contact": {
+      "companyName": "Company Name",
+      "contactPerson": "Contact Person",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Optional Message"
+    },
+    "confirmation": {
+      "title": "Request Sent Successfully!",
+      "message": "We will contact you within 24 hours with a personalized quote.",
+      "emailSent": "A confirmation email has been sent to"
+    }
+  },
+  "footer": {
+    "description": "Your trusted partner in human resources",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© 2025 TDG Trading. All rights reserved."
+  }
+}

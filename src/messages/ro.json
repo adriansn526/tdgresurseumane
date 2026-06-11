@@ -1,0 +1,150 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "services": "Servicii",
+    "careers": "Cariere",
+    "resources": "Resurse",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Soluții HR de Încredere",
+    "title": "Partenerul Tău în",
+    "titleHighlight": "Resurse Umane",
+    "description": "Oferim servicii complete de administrare personal, consultanță în management, recrutare și servicii de imigrări pentru afacerea ta.",
+    "ctaPrimary": "Solicită Consultanță Gratuită",
+    "ctaSecondary": "Descoperă Serviciile",
+    "stats": {
+      "clients": "Clienți",
+      "expertise": "Ani Expertiză",
+      "projects": "Proiecte"
+    }
+  },
+  "services": {
+    "administrarePersonal": {
+      "title": "Administrare Personal & Salarizare",
+      "description": "Salarizare și raportări REVISAL complete"
+    },
+    "revisal": {
+      "title": "REVISAL",
+      "description": "Raportări și declarații REVISAL"
+    },
+    "recrutare": {
+      "title": "Selecție & Recrutare Personal",
+      "description": "Găsim candidații potriviți pentru tine"
+    },
+    "avizMunca": {
+      "title": "Aviz de Muncă",
+      "description": "Obținere avize de muncă pentru străini"
+    },
+    "permiseSedere": {
+      "title": "Permis de Ședere",
+      "description": "Asistență pentru permise de ședere"
+    },
+    "imigrari": {
+      "title": "Servicii Imigrări",
+      "description": "Asistență completă pentru străini"
+    },
+    "detasare": {
+      "title": "Detașare în Europa",
+      "description": "Formularul A1 și asistență completă"
+    },
+    "gdpr": {
+      "title": "GDPR în Resurse Umane",
+      "description": "Protecția datelor și conformitate legală"
+    },
+    "consultantaManagement": {
+      "title": "Consultanță în Management",
+      "description": "Optimizare procese și dezvoltare"
+    }
+  },
+  "whyChooseUs": {
+    "title": "De ce să alegi TDG Trading?",
+    "expertise": {
+      "title": "Expertiză Vastă",
+      "description": "Peste 15 ani de expertiză în domeniul resurselor umane"
+    },
+    "speed": {
+      "title": "Soluții Rapide",
+      "description": "Răspunsuri și soluții în cel mai scurt timp posibil"
+    },
+    "partnership": {
+      "title": "Parteneriat Dedicat",
+      "description": "Suport continuu și consultanță personalizată"
+    }
+  },
+  "howItWorks": {
+    "title": "Cum Funcționează",
+    "subtitle": "Procesul nostru simplu în 4 pași",
+    "step1": {
+      "title": "Consultație Inițială",
+      "description": "Discutăm nevoile tale și identificăm soluțiile potrivite"
+    },
+    "step2": {
+      "title": "Analiză & Planificare",
+      "description": "Creăm un plan personalizat pentru afacerea ta"
+    },
+    "step3": {
+      "title": "Implementare",
+      "description": "Punem în aplicare soluțiile agreate"
+    },
+    "step4": {
+      "title": "Suport Continuu",
+      "description": "Rămânem alături de tine pentru orice ai nevoie"
+    }
+  },
+  "testimonials": {
+    "title": "Ce Spun Clienții Noștri",
+    "subtitle": "Peste 500 de companii ne-au acordat încrederea lor"
+  },
+  "cta": {
+    "title": "Pregătit să Începem?",
+    "subtitle": "Contactează-ne astăzi pentru o consultație gratuită",
+    "button": "Solicită Consultanță Gratuită"
+  },
+  "calculator": {
+    "title": "Calculator Ofertă",
+    "subtitle": "Selectează serviciile de care ai nevoie și primește o ofertă personalizată pe email",
+    "step1": {
+      "title": "Selectează Serviciile",
+      "subtitle": "Alege serviciile de care ai nevoie",
+      "minSelection": "Selectează cel puțin un serviciu"
+    },
+    "step2": {
+      "title": "Detalii Servicii",
+      "subtitle": "Completează detalii pentru serviciile selectate"
+    },
+    "step3": {
+      "title": "Date de Contact",
+      "subtitle": "Unde să trimitem oferta?"
+    },
+    "step4": {
+      "title": "Confirmare",
+      "subtitle": "Verifică și trimite cererea"
+    },
+    "buttons": {
+      "back": "Înapoi",
+      "continue": "Continuă",
+      "submit": "Trimite Cererea",
+      "newQuote": "Cerere Nouă"
+    },
+    "contact": {
+      "companyName": "Nume Companie",
+      "contactPerson": "Persoană de Contact",
+      "email": "Email",
+      "phone": "Telefon",
+      "message": "Mesaj Opțional"
+    },
+    "confirmation": {
+      "title": "Cerere Trimisă cu Succes!",
+      "message": "Vă vom contacta în maxim 24 de ore cu o ofertă personalizată.",
+      "emailSent": "Un email de confirmare a fost trimis la"
+    }
+  },
+  "footer": {
+    "description": "Partenerul tău de încredere în resurse umane",
+    "quickLinks": "Link-uri Rapide",
+    "contact": "Contact",
+    "followUs": "Urmărește-ne",
+    "copyright": "© 2025 TDG Trading. Toate drepturile rezervate."
+  }
+}
